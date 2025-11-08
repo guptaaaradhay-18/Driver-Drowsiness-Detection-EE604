@@ -1,5 +1,4 @@
 # Driver-Drowsiness-Detection-EE604
-# Driver Drowsiness Detection (EE604)
 
 Real-time driver drowsiness detection system using **MediaPipe Face Mesh**, **Eye Aspect Ratio (EAR)**, and **Mouth Aspect Ratio (MAR)**.  
 The system monitors eye-closure duration, blink rate, and yawning and triggers an audible alarm if the driver shows signs of fatigue.
